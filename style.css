@@ -1,0 +1,28 @@
+body {
+  background-color: white;
+  font-family: Futura,arial;
+  font-size: 15px;
+}
+h1 {
+   font-family: Futura,arial;
+   font-size: 20px;
+   text-align: center;
+}
+table {
+	color:  black;
+	border: 1px solid;
+	background-color: white;
+   text-align: center;
+	padding: 30px;
+	border-width: 5px;
+	font-family:Futura,arial;
+	font-size: 15px;
+	margin-left: 40%;
+}
+table td {
+	height: 22px;
+	width:  23px;
+	font-family: Futura,arial;
+	font-size: 15px;
+	text-align: center;
+}
