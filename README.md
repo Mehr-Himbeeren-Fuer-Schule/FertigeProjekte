@@ -1,2 +1,2 @@
-# FertigeProjekte
-Hier liegt der Code zu fertigen Projekten zu denen manchmal auch ein Eintrag im Blog exsistiert
+# Dies ist das erste Fertige Projekt das auf GitHub hochgeladen wurde
+Ein Temperatursensor
